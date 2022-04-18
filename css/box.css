@@ -1,0 +1,126 @@
+.container3 {
+
+    height: 560px;
+}
+
+#section2 {
+    margin: 34px;
+    display: flex;
+}
+
+/* CYBER SECURITY BOX CSS */
+#box1 {
+    /* border: 4px solid green; */
+    margin: 0px 13px;
+    background-color: rgb(139, 118, 118);
+    box-shadow: -8px 5px 12px black;
+    border-radius: 8px;
+}
+
+#box1 h2 {
+    padding: 0px 35px;
+}
+
+#box1 p {
+    padding: 0px 34px;
+}
+
+#box1 img {
+    height: 65px;
+    margin: 19px 95px;
+    display: block;
+    border-radius: 6px;
+}
+
+#box1:hover {
+    transform: scale(1.5);
+    box-shadow: -1px 5px 12px rgb(255, 255, 255);
+
+}
+
+/* ETHICAL HACKING BOX CSS */
+#box2 {
+    /* border: 4px solid rgb(0, 0, 0); */
+    background-color: rgb(139, 118, 118);
+    box-shadow: -8px 5px 12px black;
+    margin: 0px 13px;
+    border-radius: 8px;
+}
+
+#box2 h2 {
+    padding: 0px 72px;
+}
+
+#box2 p {
+    padding: 0px 34px;
+}
+
+#box2 img {
+    height: 65px;
+    margin: 19px 89px;
+    display: block;
+    border-radius: 6px;
+}
+
+#box2:hover {
+    transform: scale(1.5);
+    box-shadow: -1px 5px 12px rgb(255, 255, 255);
+}
+
+/* PENETRATION TESTING CSS */
+#box3 {
+    /* border: 4px solid rgb(255, 1, 1); */
+    background-color: rgb(139, 118, 118);
+    box-shadow: -8px 5px 12px black;
+    margin: 0px 13px;
+    border-radius: 8px;
+}
+
+#box3 h2 {
+    padding: 0px 62px;
+}
+
+#box3 p {
+    padding: 0px 34px;
+}
+
+#box3 img {
+    height: 65px;
+    margin: 19px 92px;
+    display: block;
+    border-radius: 6px;
+}
+
+#box3:hover {
+    transform: scale(1.5);
+    box-shadow: -1px 5px 12px rgb(255, 255, 255);
+}
+
+/* PROGRAMMING CSS */
+#box4 {
+    /* border: 4px solid rgb(7, 23, 255); */
+    background-color: rgb(139, 118, 118);
+    box-shadow: -8px 5px 12px black;
+    margin: 0px 13px;
+    border-radius: 8px;
+}
+
+#box4 h2 {
+    padding: 0px 62px;
+}
+
+#box4 p {
+    padding: 0px 34px;
+}
+
+#box4 img {
+    height: 65px;
+    margin: 19px 111px;
+    display: block;
+    border-radius: 6px;
+}
+
+#box4:hover {
+    transform: scale(1.5);
+    box-shadow: -1px 5px 12px rgb(255, 255, 255);
+}

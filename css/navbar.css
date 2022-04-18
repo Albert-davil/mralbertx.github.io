@@ -1,0 +1,69 @@
+.container {
+    /* background-image:url(/img/bgimg3.jpg) ; */
+    background-color: rgb(236, 244, 245);
+    height: 6;
+
+
+}
+
+/* LOGO CSS */
+#logo {
+    /* border: 3px solid red; */
+    display: inline-block;
+    /* padding: 2px 21px;
+    margin: 0px 26px; */
+    color: white;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+#logo:hover {
+    cursor: pointer;
+}
+
+#logo img {
+    width: 135px;
+
+
+}
+
+/* NAVBAR LIST CSS */
+#nav {
+    /* border: 3px solid green; */
+    display: inline-block;
+    margin: 55px 123px;
+    justify-content: space-between;
+
+}
+
+#nav ul {}
+
+#nav ul li {
+    display: inline;
+}
+
+#nav ul li a {
+    padding: 0px 25px;
+    color: rgb(7, 7, 7);
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+#nav ul li a:hover {
+    color: blue;
+    text-decoration: underline;
+
+}
+
+/* SOCAIL LINKS CSS */
+#links {
+    float: right;
+    position: absolute;
+    top: 192px;
+    right: 2px;
+    /* border: 3px solid yellow; */
+    color: white;
+}

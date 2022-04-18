@@ -1,0 +1,53 @@
+.container2 {
+   
+    height: 465px;
+}
+
+#home {
+    display: flex;
+    flex-direction: column;
+    padding: 3px 200px;
+    justify-content: center;
+    align-items: center;
+
+
+}
+/* WELCOME HEADING CSS */
+
+.mainheading {
+
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 2.5rem;
+    background-color: black;
+    opacity: 80%;
+    color: white;
+    border: 4px solid white;
+    border-radius: 8px;
+    padding: 0px 20px;
+    box-shadow: 11px 10px 28px white;
+
+
+}
+
+.mainheading:hover {
+    box-shadow: 11px 10px 28px rgb(0, 0, 0);
+    transition-property: background-colour(yellow);
+    transition-duration: 2s;
+
+}
+
+
+/* WELCOME PARAGRAPH CSS */
+.mainpara {
+    /* border: 4px solid green; */
+    font-family: 'Varela Round', sans-serif;
+    font-size: 1rem;
+    padding: 0px 12px;
+    margin: 0px 30px;
+
+}
+
+.mainpara:hover {
+    text-shadow: 11px 10px 28px rgb(0, 0, 0);
+
+}
